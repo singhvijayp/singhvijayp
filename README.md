@@ -67,7 +67,7 @@
     <a href="https://linkedin.com/in/singhvijayp">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="https://linkedin.com/in/singhvijayp" />
     </a>
-    <a href="https://twitter.com/singhvjpratap">
+    <a href="https://twitter.com/singhvijaypx">
         <img align="center" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="https://twitter.com/singhvijaypx" />
     </a>
     <a href="https://singhvijayp.github.io/">
